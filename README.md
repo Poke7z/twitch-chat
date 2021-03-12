@@ -1,21 +1,23 @@
 ![screenshot](screen.jpg)
 
-Features:
----
-* Some Emote support. (I'm not sure why some Emotes just render their text equivalent, maybe that's normal?)
-* Subscribers posts are highlighted with a left blue border.
-* Broadcaster's posts are highlighted in a yellow border.
-* USERNOTICE event posts are highlighted in a red background.
-* Auto dynamic truncation to 50 newest posts to keep memory usage down.
-
-Usage:
+Original: https://github.com/craigerskine/twitch-chat
 ---
 
-1. Edit `index.html` and replace the `token` and `username` variables with your own Twitch credentials. You can generate an oauth token via [Twitch Chat OAuth](https://twitchapps.com/tmi). You can also edit the default value attribute on the `#channel` input field with a comma separated list of whatever chat channels you want to "watch".
-2. Open `index.html` in your favorite browser.
-3. Enjoy!
-
-Todo
+HOI!
 ---
+Here i give u some Help ^^
 
-* __Custom Channels:__ Finalize the ability to type in your own list of a channels to connect to. It partially works right now, but there are some JS errors that can occur under certain scenarios... "this is beyond my skill to heal" ;)
+Install:
+---
+1. Download it
+2. Edit `index.html` and Search for: `token` | `username`
+3. Get your Token from: [Here](https://twitchapps.com/tmi) and Change the Token ^^
+4. Change the Username
+5. Enjoy!
+
+Additional:
+---
+You can Change the Main room too OwO
+Just search "input type="text" id="channel"" and Change the value OwO so Default is: "value="qrayg, sdshepard, rifftrax"" u can Change it to "value="shroud""
+
+This is a Fork and i just Updated the Original to work again ^^ 
