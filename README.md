@@ -18,6 +18,14 @@ Install:
 Additional:
 ---
 You can Change the Main room too OwO
-Just search "input type="text" id="channel"" and Change the value OwO so Default is: "value="qrayg, sdshepard, rifftrax"" u can Change it to "value="shroud""
+Just search
+```html
+<input type="text" id="channel" class="w-full p-0 m-0 bg-transparent text-grey hover:text-white focus:text-white font-bold inline-block appearance-none focus:outline-none" value="qrayg, sdshepard, rifftrax" placeholder="channel name" />
+```
 
+u can Change it to:
+
+```html
+<input type="text" id="channel" class="w-full p-0 m-0 bg-transparent text-grey hover:text-white focus:text-white font-bold inline-block appearance-none focus:outline-none" value="shroud" placeholder="channel name" />
+```
 This is a Fork and i just Updated the Original to work again ^^ 
