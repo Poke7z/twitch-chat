@@ -1,11 +1,9 @@
-![screenshot](screen.jpg)
-
-Original: https://github.com/craigerskine/twitch-chat
----
-
 HOI!
 ---
-Here i give u some Help ^^
+This is just a Fork of the Original Work from: @craigerskine
+Nothing is Changed actually... but i hope i will try and work on it ^^°!
+
+Link: https://github.com/craigerskine/twitch-chat
 
 Install:
 ---
@@ -23,7 +21,3 @@ Just search
 <input type="text" id="channel" class="w-full p-0 m-0 bg-transparent text-grey hover:text-white focus:text-white font-bold inline-block appearance-none focus:outline-none" value="qrayg, sdshepard, rifftrax" placeholder="channel name" />
 ```
 and Change the value to your Channel ^^
-
-
-
-This is a Fork and i just Updated the Original to work again ^^ 
